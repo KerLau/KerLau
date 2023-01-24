@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### About me
+
+Threesome? No thanks… If I wanted to disappoint two people in the same room, I’d have dinner with my parents.
+I hope I won't dissapoint my class
+
 <!--
 **KerLau/KerLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
