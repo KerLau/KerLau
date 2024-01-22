@@ -3,7 +3,7 @@
 ## I'm Laurynas Kerpe
 ## Lithuanian living in Berlin.
 
-## Passionate fresh Web Developer looking for two months internship or full time job in the tech world using new learned skills.
+## Passionate fresh Full- Stack Web Developer looking for two months internship or full time job in the tech world using new learned skills.
 <!--
 **KerLau/KerLau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
